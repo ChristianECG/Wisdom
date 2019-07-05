@@ -1,0 +1,58 @@
+﻿31 de mayo y 1 de junio - Presentación de la plataforma.
+Lunes 4 de junio - Manual de usuario (Transparente al frente, negro por atrás).
+
+MANUAL DE USUARIO
+Guia escrita e imagen asociada
+Capturas de pantalla
+Diagramas claramente detallados y sencillos para poder llevar a cabo las distintas opciones disponibles.
+Lenguaje sencillo.
+
+Portada
+	Título: Manual de Usuario
+	Título de la plataforma
+	Logotipo
+	Autores
+	Docente	
+	Fecha: Junio 2018
+
+Índice
+
+Objetivo (manual)
+
+Requerimientos técnicos para el uso de la plataforma (software, conexión, etc.) Versiones
+
+Definición (plataforma, significado siglas u objetivo general)
+
+Desarrollo del manual
+	Acceso al sistema
+	Registro
+	Usuario Alumno
+
+------------------------------------------------
+
+Encabezado: Logotipo de la plataforma (Lado izquierdo) - Manual de usuario nombre de la plataforma (Leyenda, centrado)
+
+Pie de página:
+Centro de Bachillerato Tecnológico Industrial y de Servicios No. 199 Emiliano Zapata
+No. de página (a partir del objetivo compienza la numeración, se cuenta la portada e índice).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
